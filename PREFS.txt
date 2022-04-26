@@ -1,0 +1,10 @@
+resolution = 500, 500
+maxiterations = 10
+zoom = 1.5
+offsetX = -0.6
+offsetY = 0
+output = testImage.bmp
+
+POI:
+0.001643721971153
+-0.822467633298876i
